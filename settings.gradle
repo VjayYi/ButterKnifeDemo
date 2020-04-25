@@ -1,0 +1,5 @@
+rootProject.name='ArouterDemo'
+include ':app'
+include ':annotation'
+include ':processor'
+include ':apt-pro'
